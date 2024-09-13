@@ -9,14 +9,35 @@
 ## Work Experience
 
 Virtusa | React Developer Intern                                   Dec 2022 – Mar 2023
-- Developed and maintained 5+ responsive web applications using React.js, improving load times by 30%.
--	Collaborated with a team of 10 to implement RESTful APIs, enhancing data retrieval efficiency by 40%.
--	Conducted Unit testing and debugging, reducing bug reports by 25% and improving application reliability
+
+◦ Spearheaded the development of a Dynamic User Interface for a client-facing web application,
+improving user engagement by 15%.
+◦ Implemented React.js components to streamline the frontend architecture, reducing page load time by 20%
 
 
 ## Projects
 ### Credit Card Approval Prediction
 	             
-- Preprocessed the Credit dataset using R by handling missing values, normalizing continuous variables, encoding Categorical Data, and detecting outliers. These steps ensured a clean and robust dataset for modeling.
--	Developed and fine-tuned Logistic Regression and Ridge Regression models, achieving test accuracies of 85% and 88%. Utilized backward stepwise selection based on the Bayesian Information Criterion to optimize predictor selection, enhancing model performance.
--	Leveraged Advanced statistical analysis and Data visualization in R to identify key predictors influencing credit approval decisions. This comprehensive analysis provided actionable insights, significantly improving the decision-making process and demonstrating the model’s real-world applicability in credit risk assessment.
+◦ Developed credit approval models using logistic and ridge regression, achieving 85% and 88% accuracy. 
+◦ Applied backward subset selection, reducing feature set by 30%, improving model efficiency.
+◦ Processed over 1,000 records, handling 5% outliers and 10% missing data for cleaner inputs. 
+◦ Analyzed credit behavior using exploratory data analysis (EDA) to identify 5 key predictors.
+
+
+### Unveiling Customer Shopping Trends 				    
+Tools: [Python, Tableau, Logistic Regression, KNN, Decision Tree, XGBoost]
+◦ Engineered predictive models with Logistic Regression, KNN, and XGBoost, achieving an accuracy of
+90% for subscription prediction.
+◦ Revamped Tableau dashboards to visualize customer subscription trends, enhancing Decision-making
+efficiency by 25%
+◦ Streamlined data pipelines for 10,000+ customer records, leading to a 15% improvement in model
+performance.
+◦ Pioneered insights into customer behavior that led to Targeted Marketing Strategies, driving a 10%
+increase in subscription rates.
+
+
+### Mood Analysis in Tweets December 2023 
+Tools: [Python, Pandas, NumPY, Matplotlib, NLTK ]
+◦ Achieved high-accuracy Sentiment Analysis on 8,000+ tweets using Python and NLTK, leveraging Data
+Preprocessing, Tokenization, and Classification techniques to extract insights, increasing accuracy by 10%.
+◦ Enhanced Tweet categorization by deploying a Machine learning model for Text classification, improving performance by 15%, demonstrating expertise in Natural Language Processing (NLP) and Data analysis.
