@@ -22,7 +22,7 @@ improving user engagement by 15%.
 ◦ Applied backward subset selection, reducing feature set by 30%, improving model efficiency.
 ◦ Processed over 1,000 records, handling 5% outliers and 10% missing data for cleaner inputs. 
 ◦ Analyzed credit behavior using exploratory data analysis (EDA) to identify 5 key predictors.
-
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Unveiling Customer Shopping Trends 				    
 Tools: [Python, Tableau, Logistic Regression, KNN, Decision Tree, XGBoost]
