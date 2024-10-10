@@ -17,14 +17,21 @@ improving user engagement by 15%.
 
 ## Projects
 ### Credit Card Approval Prediction
-	             
+	 
+![Credit](web/Credit.jpg)
+            
 ◦ Developed credit approval models using logistic and ridge regression, achieving 85% and 88% accuracy. 
 ◦ Applied backward subset selection, reducing feature set by 30%, improving model efficiency.
 ◦ Processed over 1,000 records, handling 5% outliers and 10% missing data for cleaner inputs. 
 ◦ Analyzed credit behavior using exploratory data analysis (EDA) to identify 5 key predictors.
-![Credit](web/Credit.jpg)
 
-### Unveiling Customer Shopping Trends 				    
+
+### Unveiling Customer Shopping Trends 	
+
+
+![Credit](web/Trends.png)
+
+			    
 Tools: [Python, Tableau, Logistic Regression, KNN, Decision Tree, XGBoost]
 ◦ Engineered predictive models with Logistic Regression, KNN, and XGBoost, achieving an accuracy of
 90% for subscription prediction.
@@ -37,6 +44,9 @@ increase in subscription rates.
 
 
 ### Mood Analysis in Tweets December 2023 
+
+![Credit](web/Moods.webp)
+
 Tools: [Python, Pandas, NumPY, Matplotlib, NLTK ]
 ◦ Achieved high-accuracy Sentiment Analysis on 8,000+ tweets using Python and NLTK, leveraging Data
 Preprocessing, Tokenization, and Classification techniques to extract insights, increasing accuracy by 10%.
