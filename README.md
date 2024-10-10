@@ -29,7 +29,7 @@ improving user engagement by 15%.
 ### Unveiling Customer Shopping Trends 	
 
 
-![Credit](web/Trends.png)
+![Trends](web/Trends.png)
 
 			    
 Tools: [Python, Tableau, Logistic Regression, KNN, Decision Tree, XGBoost]
@@ -45,7 +45,7 @@ increase in subscription rates.
 
 ### Mood Analysis in Tweets December 2023 
 
-![Credit](web/Moods.webp)
+![Moods](web/Moods.webp)
 
 Tools: [Python, Pandas, NumPY, Matplotlib, NLTK ]
 ◦ Achieved high-accuracy Sentiment Analysis on 8,000+ tweets using Python and NLTK, leveraging Data
